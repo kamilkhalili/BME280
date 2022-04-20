@@ -21,7 +21,7 @@ bme280.sea_level_pressure = 1013.25
 # Set to your Adafruit IO key.
 # Remember, your key is a secret,
 # so make sure not to publish it when you publish this code!
-ADAFRUIT_IO_KEY = 'aio_aQMe56M3EKXg2gNTljCT0SiIyCqQ'
+ADAFRUIT_IO_KEY = 'aio_sFgY02SJKfiuYBhjHUxHvZ0Ro86O'
 
 # Set to your Adafruit IO username.
 # (go to https://accounts.adafruit.com to find your username).
